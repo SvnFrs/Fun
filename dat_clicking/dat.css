@@ -1,0 +1,29 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.button-container {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dat-centered img {
+    max-width: 100%;
+}
+#dat-pet {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5vh;
+}
+
+
+
+
